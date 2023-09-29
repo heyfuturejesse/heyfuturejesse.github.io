@@ -8,7 +8,7 @@ The purpose of this page is to showcase Dylan's good looks and to share my posit
 
 ## Features
 
-The page includes a title, a picture of a dancing banana, and the words "Jesse Russell Github spaces is dope, and Dylan is very Handsome! This is a dancing banana. How cool is it!" written all over it. The dancing banana serves as a fun and quirky element that adds some character to the page.
+The page includes a title, a picture of a dancing banana, and the words "Jesse Russell Github spaces is dope, and Dylan is very Handsome! This is a dancing banana. How cool is it!" written all over it. The dancing banana serves as a fun and quirky element that adds some character to the page. It also features a gif from the hit anime, Serial Experiments Lain. NICE!
 
 ## How to Use
 
